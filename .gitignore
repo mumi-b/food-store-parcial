@@ -27,3 +27,4 @@ assets/
 # el video no va al repo: pesa 1.1 GB y GitHub rechaza archivos de mas de 100 MB
 *.mp4
 *.mov
+*.m4v
